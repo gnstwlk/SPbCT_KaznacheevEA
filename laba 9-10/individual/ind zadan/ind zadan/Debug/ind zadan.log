@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\igorg\source\repos\ind zadan\ind zadan\MyForm.h(130,8): warning C4101: arrBit: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ind zadan.vcxproj -> C:\Users\igorg\source\repos\ind zadan\Debug\ind zadan.exe

@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication4.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Point.cpp
+  Triangle.cpp
+  main.cpp
+  Создание кода...
+  ConsoleApplication4.vcxproj -> \\Mac\Home\Desktop\лр910\Triangle\x64\Debug\main.exe

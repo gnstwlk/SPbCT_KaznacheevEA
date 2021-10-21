@@ -1,3 +1,0 @@
-C:\Users\u381\Desktop\laba9-10\indzad\ind zadan\ind zadan\x64\Debug\ind zadan.vcxprojAssemblyReference.cache
-C:\Users\u381\Desktop\laba9-10\indzad\ind zadan\ind zadan\x64\Debug\indzadan.MyForm.resources
-C:\Users\u381\Desktop\laba9-10\indzad\ind zadan\ind zadan\x64\Debug\ind zadan.vcxproj.GenerateResource.cache

@@ -1,0 +1,3 @@
+C:\Users\igorg\source\repos\ind zadan\ind zadan\Debug\ind zadan.vcxprojAssemblyReference.cache
+C:\Users\igorg\source\repos\ind zadan\ind zadan\Debug\indzadan.MyForm.resources
+C:\Users\igorg\source\repos\ind zadan\ind zadan\Debug\ind zadan.vcxproj.GenerateResource.cache

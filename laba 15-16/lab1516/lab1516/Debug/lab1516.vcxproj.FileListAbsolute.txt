@@ -1,0 +1,3 @@
+C:\Users\imnot\Source\Repos\lab1516\lab1516\Debug\lab1516.vcxproj.AssemblyReference.cache
+C:\Users\imnot\Source\Repos\lab1516\lab1516\Debug\lab1516.MyForm.resources
+C:\Users\imnot\Source\Repos\lab1516\lab1516\Debug\lab1516.vcxproj.GenerateResource.cache

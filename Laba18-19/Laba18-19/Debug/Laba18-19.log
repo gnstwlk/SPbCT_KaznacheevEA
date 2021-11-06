@@ -1,0 +1,3 @@
+﻿  Laba18-19.cpp
+C:\Users\bulyn\Desktop\SPbCT_BulyninMA\Laba18-19\Laba18-19\Laba18-19.cpp(83,11): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "LPVOID"
+  Laba18-19.vcxproj -> C:\Users\bulyn\Desktop\SPbCT_BulyninMA\Laba18-19\Debug\Laba18-19.exe

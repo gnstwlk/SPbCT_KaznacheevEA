@@ -1,3 +1,0 @@
-C:\Users\anyut\OneDrive\Рабочий стол\Практика\MathClient\MathClient\Debug\MathClient.vcxprojAssemblyReference.cache
-C:\Users\anyut\OneDrive\Рабочий стол\Практика\MathClient\MathClient\Debug\MathClient.MyForm1.resources
-C:\Users\anyut\OneDrive\Рабочий стол\Практика\MathClient\MathClient\Debug\MathClient.vcxproj.GenerateResource.cache

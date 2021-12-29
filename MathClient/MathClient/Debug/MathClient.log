@@ -1,0 +1,5 @@
+﻿  MyForm1.cpp
+C:\Users\anyut\OneDrive\Рабочий стол\Практика\MathClient\MathClient\MyForm1.h(236,8): warning C4101: buff: неиспользованная локальная переменная
+  MyForm1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  MathClient.vcxproj -> C:\Users\anyut\OneDrive\Рабочий стол\Практика\MathClient\Debug\MathClient.exe
+  Скопировано файлов: 0.
